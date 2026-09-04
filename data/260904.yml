@@ -7,13 +7,13 @@ about:
   head: 2926461
   archived: false
   latestVersion: v1.34.0
-  collectedAt: 2026-09-04T19:58:10Z
+  collectedAt: 2026-09-04T20:41:53Z
 timeline:
   created: 2020-10-21
   lastCommit: 2026-08-19
   lastRelease: 2026-05-02
 popularity:
-  star: 4853
+  star: 4851
   watcher: 28
   fork: 177
   release: 27
@@ -84,6 +84,49 @@ total:
   openIssue: 31
   commit: 318
 ---
+path: /home/runner/.x-repo/github.com/stern/stern
+collectedAt: 2026-09-04T20:41:53Z
+loc:
+  Go:
+    code: 5525
+    comments: 328
+    blanks: 601
+    files: 30
+  Makefile:
+    code: 60
+    comments: 0
+    blanks: 20
+    files: 1
+  Sh:
+    code: 13
+    comments: 1
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 9
+  Dockerfile:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Pan:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 650
+    blanks: 253
+    files: 3
+total:
+  code: 5635
+  comments: 988
+  blanks: 880
+  files: 46
 ---
 date: "2026-08-24"
 repo:
