@@ -5,13 +5,13 @@ about:
   head: 2926461
   archived: false
   latestVersion: "v1.34.0"
-  collectedAt: 2026-09-07T04:47:18Z
+  collectedAt: 2026-09-07T19:38:43Z
 timeline:
   created: 2020-10-21
   lastCommit: 2026-08-19
   lastRelease: 2026-05-02
 popularity:
-  star: 4852
+  star: 4851
   watcher: 28
   fork: 177
   release: 27
@@ -83,7 +83,7 @@ total:
   commit: 318
 ---
 path: /home/runner/.x-repo/github.com/stern/stern
-collectedAt: 2026-09-07T04:47:19Z
+collectedAt: 2026-09-07T19:38:44Z
 loc:
   Go:
     code: 5525
@@ -226,7 +226,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:47:20+00:00
+  collectedAt: 2026-09-07T19:38:44+00:00
   platform:
     darwin/arm64:
       name:  stern_1.34.0_darwin_arm64.tar.gz
