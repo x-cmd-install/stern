@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.34.0"
   latestRelease: "v1.34.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:35:27Z
+  collectedAt: 2026-09-10T20:51:23Z
 timeline:
   created: 2020-10-21
   lastCommit: 2026-08-19
@@ -87,7 +87,7 @@ total:
   commit: 318
 ---
 path: /home/runner/.x-repo/github.com/stern/stern
-collectedAt: 2026-09-10T16:35:28Z
+collectedAt: 2026-09-10T20:51:24Z
 loc:
   Go:
     code: 5525
