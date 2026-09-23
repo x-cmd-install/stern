@@ -4,7 +4,7 @@
 
 ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 
-[![x-cmd/install — stern Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stern.svg)](https://x-cmd.com/install/stern)
+[![x-cmd/install — stern Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stern.svg)](https://x-cmd.com/install/stern)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **5,725** lines of code across **42** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,870 · **Forks**: 178 · **Open issues**: 157 · **Contributors**: 60
+- **Stars**: 4,871 · **Forks**: 177 · **Open issues**: 157 · **Contributors**: 60
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 0 | 3 | 4 | 1 | 0 | 3 |
-| 90d | 2026-06-24 | 0 | 3 | 5 | 1 | 0 | 4 |
-| last180d | 2026-03-26 | 1 | 12 | 6 | 2 | 0 | 12 |
-| 360d | 2025-09-27 | 2 | 15 | 7 | 3 | 3 | 15 |
-| last720d | 2024-10-02 | 5 | 30 | 9 | 12 | 11 | 31 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 0 | 3 | 2 | 1 | 0 | 3 |
+| 90d | 2026-06-25 | 0 | 3 | 5 | 1 | 0 | 4 |
+| last180d | 2026-03-27 | 1 | 12 | 6 | 2 | 0 | 12 |
+| 360d | 2025-09-28 | 2 | 15 | 7 | 3 | 3 | 15 |
+| last720d | 2024-10-03 | 5 | 30 | 9 | 12 | 11 | 31 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:13:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:24:12Z._
