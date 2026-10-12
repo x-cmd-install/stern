@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,888 · **Forks**: 179 · **Open issues**: 158 · **Contributors**: 60
+- **Stars**: 4,889 · **Forks**: 180 · **Open issues**: 158 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 187 · **Open PRs**: 10 · **Closed issues**: 127 · **Open issues**: 31 · **Commits**: 320
+- **Releases**: 27 · **Merged PRs**: 187 · **Open PRs**: 11 · **Closed issues**: 127 · **Open issues**: 31 · **Commits**: 320
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 1 | 2 |
-| last60d | 2026-08-12 | 0 | 2 | 3 | 1 | 1 | 3 |
-| 90d | 2026-07-13 | 0 | 3 | 6 | 1 | 1 | 4 |
-| last180d | 2026-04-14 | 1 | 12 | 7 | 2 | 1 | 12 |
-| 360d | 2025-10-16 | 2 | 14 | 8 | 3 | 4 | 15 |
-| last720d | 2024-10-21 | 4 | 27 | 10 | 11 | 12 | 28 |
+| 30d | 2026-09-12 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-13 | 0 | 2 | 4 | 1 | 1 | 3 |
+| 90d | 2026-07-14 | 0 | 3 | 7 | 1 | 1 | 4 |
+| last180d | 2026-04-15 | 1 | 12 | 8 | 2 | 1 | 12 |
+| 360d | 2025-10-17 | 2 | 14 | 9 | 3 | 4 | 15 |
+| last720d | 2024-10-22 | 4 | 27 | 11 | 11 | 12 | 28 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:54:05Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:15:01Z._
