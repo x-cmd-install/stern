@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,908 · **Forks**: 180 · **Open issues**: 165 · **Contributors**: 65
+- **Stars**: 4,909 · **Forks**: 180 · **Open issues**: 165 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 10 | 3 | 6 | 2 | 13 |
-| last60d | 2026-08-27 | 1 | 11 | 3 | 6 | 2 | 15 |
-| 90d | 2026-07-28 | 1 | 14 | 4 | 7 | 2 | 16 |
-| last180d | 2026-04-29 | 2 | 23 | 4 | 8 | 2 | 19 |
-| 360d | 2025-10-31 | 3 | 27 | 4 | 10 | 3 | 25 |
-| last720d | 2024-11-05 | 5 | 40 | 4 | 21 | 9 | 41 |
+| 30d | 2026-09-27 | 1 | 10 | 3 | 6 | 2 | 13 |
+| last60d | 2026-08-28 | 1 | 11 | 3 | 6 | 2 | 15 |
+| 90d | 2026-07-29 | 1 | 14 | 4 | 7 | 2 | 16 |
+| last180d | 2026-04-30 | 2 | 23 | 4 | 8 | 2 | 19 |
+| 360d | 2025-11-01 | 3 | 27 | 4 | 10 | 3 | 25 |
+| last720d | 2024-11-06 | 5 | 40 | 4 | 21 | 9 | 41 |
 
 ## Release assets
 
@@ -81,16 +81,16 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/stern). **6** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/stern). **7** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.34.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.35.0` | ✅ latest |
 | Nix unstable | `1.34.0` | ⚠️ outdated |
 | Void | `1.34.0` | ⚠️ outdated |
 | Alpine edge | `1.33.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.34.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.35.0` | ✅ latest |
 
 ## Improve this data
 
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:56:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:15:45Z._
