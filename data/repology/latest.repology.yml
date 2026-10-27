@@ -1,53 +1,3 @@
-- repo: homebrew
-  srcname: stern
-  visiblename: stern
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Tail multiple Kubernetes pods & their containers
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.28.0
-  origversion: 1.28.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.27.0
-  origversion: 1.27.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.26.0
-  origversion: 1.26.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.25.0
-  origversion: 1.25.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: chocolatey
-  binname: stern
-  visiblename: Stern (Install)
-  version: 1.33.1
-  origversion: null
-  status: outdated
-  summary: Kubernetes log tail and viewer
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -111,12 +61,26 @@
   summary: Multi pod and container log tailing for Kubernetes
   licenses:
     - Apache-2.0
+- repo: chocolatey
+  binname: stern
+  visiblename: Stern (Install)
+  version: 1.33.1
+  origversion: null
+  status: outdated
+  summary: Kubernetes log tail and viewer
 - repo: homebrew
   srcname: stern
   visiblename: stern
   version: 1.35.0
   origversion: null
   status: newest
+  summary: Tail multiple Kubernetes pods & their containers
+- repo: homebrew
+  srcname: stern
+  visiblename: stern
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Tail multiple Kubernetes pods & their containers
 - repo: macports
   srcname: sysutils/stern
@@ -246,9 +210,9 @@
     - stern-debuginfo
     - stern-debugsource
   visiblename: stern
-  version: 1.34.0
-  origversion: 1.34.0-1.4
-  status: outdated
+  version: 1.35.0
+  origversion: 1.35.0-1.1
+  status: newest
   summary: Multi pod and container log tailing for Kubernetes
   licenses:
     - Apache-2.0
@@ -415,6 +379,42 @@
   visiblename: stern
   version: 1.29.0
   origversion: 1.29.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.28.0
+  origversion: 1.28.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.27.0
+  origversion: 1.27.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.26.0
+  origversion: 1.26.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.25.0
+  origversion: 1.25.0-2~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
