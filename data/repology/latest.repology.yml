@@ -1,3 +1,21 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.30.0
+  origversion: 1.30.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.29.0
+  origversion: 1.29.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -361,24 +379,6 @@
   visiblename: stern
   version: 1.31.0
   origversion: 1.31.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.30.0
-  origversion: 1.30.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.29.0
-  origversion: 1.29.0-2~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
