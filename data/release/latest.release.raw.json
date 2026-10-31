@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 884,
       "digest": "sha256:e538f558bf0ed36f2fa9ec7d42edee1cbb00e8a7004fb460ed0c8701df58b68d",
-      "download_count": 448,
+      "download_count": 505,
       "created_at": "2026-10-22T13:57:03Z",
       "updated_at": "2026-10-22T13:57:03Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15068189,
       "digest": "sha256:6a0b9d99a73a70326fc30079d1b70f03c9593f1b1d441c64a93907e79baec815",
-      "download_count": 82,
+      "download_count": 96,
       "created_at": "2026-10-22T13:57:00Z",
       "updated_at": "2026-10-22T13:57:01Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13738893,
       "digest": "sha256:951ba00a33ea09b9e64c8ab7b71443b9be4d65f6f6c91b184fbec6d684d9dd0a",
-      "download_count": 473,
+      "download_count": 540,
       "created_at": "2026-10-22T13:57:01Z",
       "updated_at": "2026-10-22T13:57:02Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14749212,
       "digest": "sha256:03729b01a8fcfab25f6ea53389bd38bc37400ff86d90cd2dcda541f248cf843e",
-      "download_count": 17173,
+      "download_count": 19695,
       "created_at": "2026-10-22T13:57:00Z",
       "updated_at": "2026-10-22T13:57:01Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13937106,
       "digest": "sha256:9b8b89322746847f2d16ec361ee64df345a5edbd0de6137c776ce5beda6e89e2",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-10-22T13:57:00Z",
       "updated_at": "2026-10-22T13:57:01Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_linux_arm.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13040707,
       "digest": "sha256:b12f5e2ee0d01f6f21e0759cced0be2d8df9cd4e93e6a3cf11393170ae0f43cf",
-      "download_count": 1184,
+      "download_count": 1554,
       "created_at": "2026-10-22T13:57:00Z",
       "updated_at": "2026-10-22T13:57:01Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15220514,
       "digest": "sha256:86944902f0f6e0b97a5e487cd77a216c34795df45fc8d753f61b765689f6e24f",
-      "download_count": 152,
+      "download_count": 169,
       "created_at": "2026-10-22T13:57:01Z",
       "updated_at": "2026-10-22T13:57:03Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_windows_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15220366,
       "digest": "sha256:eb2fba5caa9a0f8e4b58045de2ed1efa59d283770607f937aaf50d836bd285ac",
-      "download_count": 47,
+      "download_count": 52,
       "created_at": "2026-10-22T13:57:02Z",
       "updated_at": "2026-10-22T13:57:03Z",
       "browser_download_url": "https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_windows_amd64.zip"
