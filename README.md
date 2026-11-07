@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,914 · **Forks**: 181 · **Open issues**: 166 · **Contributors**: 65
+- **Stars**: 4,913 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 200 · **Open PRs**: 5 · **Closed issues**: 137 · **Open issues**: 29 · **Commits**: 333
+- **Releases**: 28 · **Merged PRs**: 200 · **Open PRs**: 6 · **Closed issues**: 137 · **Open issues**: 30 · **Commits**: 333
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 10 | 4 | 5 | 3 | 13 |
-| last60d | 2026-09-07 | 1 | 10 | 4 | 6 | 3 | 15 |
-| 90d | 2026-08-08 | 1 | 14 | 5 | 7 | 3 | 16 |
-| last180d | 2026-05-10 | 1 | 19 | 5 | 8 | 3 | 19 |
-| 360d | 2025-11-11 | 2 | 25 | 5 | 9 | 4 | 25 |
-| last720d | 2024-11-16 | 5 | 39 | 5 | 20 | 10 | 40 |
+| 30d | 2026-10-08 | 1 | 10 | 5 | 5 | 4 | 13 |
+| last60d | 2026-09-08 | 1 | 10 | 5 | 6 | 4 | 15 |
+| 90d | 2026-08-09 | 1 | 13 | 6 | 7 | 4 | 16 |
+| last180d | 2026-05-11 | 1 | 19 | 6 | 8 | 4 | 19 |
+| 360d | 2025-11-12 | 2 | 25 | 6 | 9 | 5 | 25 |
+| last720d | 2024-11-17 | 5 | 39 | 6 | 20 | 11 | 40 |
 
 ## Release assets
 
@@ -81,14 +81,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/stern). **7** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/stern). **8** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.34.0` | ⚠️ outdated |
-| Homebrew | `1.35.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.34.0` | ⚠️ outdated |
-| Void | `1.34.0` | ⚠️ outdated |
+| Void | `1.35.0` | ✅ latest |
 | Alpine edge | `1.33.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.35.0` | ✅ latest |
 
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:55:53Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:23:03Z._
