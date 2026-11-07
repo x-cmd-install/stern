@@ -1,54 +1,10 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.31.0
-  origversion: 1.31.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_24_05
+- repo: homebrew
   srcname: stern
   visiblename: stern
-  version: 1.29.0
+  version: HEAD
   origversion: null
-  status: outdated
-  summary: Multi pod and container log tailing for Kubernetes
-  maintainers:
-    - maxbode@gmail.com
-    - florian@florianstroeger.com
-  licenses:
-    - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.30.0
-  origversion: 1.30.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.29.0
-  origversion: 1.29.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_24_11
-  srcname: stern
-  visiblename: stern
-  version: 1.31.0
-  origversion: null
-  status: outdated
-  summary: Multi pod and container log tailing for Kubernetes
-  maintainers:
-    - maxbode@gmail.com
-    - florian@florianstroeger.com
-  licenses:
-    - Apache-2.0
+  status: rolling
+  summary: Tail multiple Kubernetes pods & their containers
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -75,6 +31,15 @@
     - folliekazetani@protonmail.com
   licenses:
     - Apache-2.0
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.32.0
+  origversion: 1.32.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -126,13 +91,6 @@
   origversion: null
   status: newest
   summary: Tail multiple Kubernetes pods & their containers
-- repo: homebrew
-  srcname: stern
-  visiblename: stern
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Tail multiple Kubernetes pods & their containers
 - repo: macports
   srcname: sysutils/stern
   binname: stern
@@ -153,23 +111,23 @@
   srcname: stern
   binname: stern
   visiblename: stern
-  version: 1.25.0
-  origversion: 1.25.0-1
+  version: 1.34.0
+  origversion: 1.34.0-1
   status: outdated
   summary: Multi pod and container log tailing for Kubernetes
   licenses:
-    - apache
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: stern
   binname: stern
   visiblename: stern
-  version: 1.25.0
-  origversion: 1.25.0-1
+  version: 1.34.0
+  origversion: 1.34.0-1
   status: outdated
   summary: Multi pod and container log tailing for Kubernetes
   licenses:
-    - apache
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: stern
@@ -179,6 +137,30 @@
   origversion: 1.34.0-1
   status: outdated
   summary: Multi pod and container log tailing for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: stern
+  visiblename: stern
+  version: 1.29.0
+  origversion: null
+  status: outdated
+  summary: Multi pod and container log tailing for Kubernetes
+  maintainers:
+    - maxbode@gmail.com
+    - florian@florianstroeger.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: stern
+  visiblename: stern
+  version: 1.31.0
+  origversion: null
+  status: outdated
+  summary: Multi pod and container log tailing for Kubernetes
+  maintainers:
+    - maxbode@gmail.com
+    - florian@florianstroeger.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
@@ -328,9 +310,9 @@
   srcname: stern
   binname: stern
   visiblename: stern
-  version: 1.34.0
-  origversion: 1.34.0_3
-  status: outdated
+  version: 1.35.0
+  origversion: 1.35.0_1
+  status: newest
   summary: Multi pod and container log tailing for Kubernetes
   maintainers:
     - orphan@voidlinux.org
@@ -376,8 +358,26 @@
   subrepo: devops
   binname: stern
   visiblename: stern
-  version: 1.32.0
-  origversion: 1.32.0-2~ops2deb
+  version: 1.31.0
+  origversion: 1.31.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.30.0
+  origversion: 1.30.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.29.0
+  origversion: 1.29.0-2~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
