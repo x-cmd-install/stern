@@ -14,11 +14,11 @@ x install stern
 
 ## Code insight
 
-Total: **6,419** lines of code across **46** files in the top 5 languages.
+Total: **6,527** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,318 | 391 | 686 | 32 |
+| Go | 6,426 | 398 | 696 | 32 |
 | Makefile | 60 | 0 | 20 | 1 |
 | Yaml | 23 | 0 | 0 | 11 |
 | Sh | 13 | 1 | 4 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.35.0` (2026-10-22)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-11-08
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,913 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 65
+- **Stars**: 4,913 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 200 · **Open PRs**: 6 · **Closed issues**: 137 · **Open issues**: 30 · **Commits**: 333
+- **Releases**: 28 · **Merged PRs**: 204 · **Open PRs**: 4 · **Closed issues**: 141 · **Open issues**: 26 · **Commits**: 337
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 10 | 5 | 5 | 4 | 13 |
-| last60d | 2026-09-08 | 1 | 10 | 5 | 6 | 4 | 15 |
-| 90d | 2026-08-09 | 1 | 13 | 6 | 7 | 4 | 16 |
-| last180d | 2026-05-11 | 1 | 19 | 6 | 8 | 4 | 19 |
-| 360d | 2025-11-12 | 2 | 25 | 6 | 9 | 5 | 25 |
-| last720d | 2024-11-17 | 5 | 39 | 6 | 20 | 11 | 40 |
+| 30d | 2026-10-09 | 1 | 14 | 2 | 9 | 0 | 17 |
+| last60d | 2026-09-09 | 1 | 14 | 3 | 10 | 0 | 17 |
+| 90d | 2026-08-10 | 1 | 17 | 4 | 11 | 0 | 20 |
+| last180d | 2026-05-12 | 1 | 23 | 4 | 12 | 0 | 23 |
+| 360d | 2025-11-13 | 2 | 29 | 4 | 13 | 1 | 29 |
+| last720d | 2024-11-18 | 5 | 43 | 4 | 24 | 6 | 44 |
 
 ## Release assets
 
@@ -81,11 +81,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/stern). **8** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/stern). **11** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.34.0` | ⚠️ outdated |
+| Arch | `1.35.0` | ✅ latest |
 | Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.34.0` | ⚠️ outdated |
 | Void | `1.35.0` | ✅ latest |
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:23:03Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:13:01Z._
