@@ -18,7 +18,7 @@ Total: **6,527** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,426 | 398 | 696 | 32 |
+| Go | 6,426 | 397 | 696 | 32 |
 | Makefile | 60 | 0 | 20 | 1 |
 | Yaml | 23 | 0 | 0 | 11 |
 | Sh | 13 | 1 | 4 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.35.0` (2026-10-22)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-10
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,919 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 66
+- **Stars**: 4,923 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 204 · **Open PRs**: 7 · **Closed issues**: 141 · **Open issues**: 26 · **Commits**: 337
+- **Releases**: 28 · **Merged PRs**: 205 · **Open PRs**: 6 · **Closed issues**: 141 · **Open issues**: 26 · **Commits**: 338
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 13 | 5 | 9 | 0 | 17 |
-| last60d | 2026-09-11 | 1 | 14 | 6 | 10 | 0 | 17 |
-| 90d | 2026-08-12 | 1 | 17 | 7 | 11 | 0 | 20 |
-| last180d | 2026-05-14 | 1 | 23 | 7 | 12 | 0 | 23 |
-| 360d | 2025-11-15 | 2 | 29 | 7 | 13 | 1 | 29 |
-| last720d | 2024-11-20 | 5 | 41 | 7 | 24 | 6 | 44 |
+| 30d | 2026-10-12 | 1 | 14 | 4 | 9 | 0 | 18 |
+| last60d | 2026-09-12 | 1 | 15 | 5 | 10 | 0 | 18 |
+| 90d | 2026-08-13 | 1 | 18 | 6 | 11 | 0 | 21 |
+| last180d | 2026-05-15 | 1 | 24 | 6 | 12 | 0 | 24 |
+| 360d | 2025-11-16 | 2 | 30 | 6 | 13 | 1 | 30 |
+| last720d | 2024-11-21 | 5 | 42 | 6 | 24 | 6 | 44 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:33:35Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:31:23Z._
