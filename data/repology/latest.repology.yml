@@ -1,12 +1,3 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.25.0
-  origversion: 1.25.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -91,15 +82,6 @@
   origversion: null
   status: rolling
   summary: Tail multiple Kubernetes pods & their containers
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.24.0
-  origversion: 1.24.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: macports
   srcname: sysutils/stern
   binname: stern
@@ -275,7 +257,7 @@
   binname: stern
   visiblename: net/stern
   version: 1.30.0
-  origversion: 1.30.0nb22
+  origversion: 1.30.0nb23
   status: outdated
   summary: Multi pod and container log tailing for Kubernetes
   maintainers:
@@ -423,6 +405,24 @@
   visiblename: stern
   version: 1.26.0
   origversion: 1.26.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.25.0
+  origversion: 1.25.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.24.0
+  origversion: 1.24.0-2~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
