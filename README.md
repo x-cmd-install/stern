@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 16 | 4 | 8 | 0 | 21 |
-| last60d | 2026-09-15 | 1 | 18 | 5 | 10 | 0 | 21 |
-| 90d | 2026-08-16 | 1 | 20 | 6 | 10 | 0 | 24 |
-| last180d | 2026-05-18 | 1 | 27 | 6 | 12 | 0 | 27 |
-| 360d | 2025-11-19 | 2 | 33 | 6 | 13 | 1 | 33 |
-| last720d | 2024-11-24 | 5 | 45 | 6 | 24 | 6 | 46 |
+| 30d | 2026-10-16 | 1 | 16 | 4 | 8 | 0 | 10 |
+| last60d | 2026-09-16 | 1 | 18 | 5 | 10 | 0 | 21 |
+| 90d | 2026-08-17 | 1 | 20 | 6 | 10 | 0 | 23 |
+| last180d | 2026-05-19 | 1 | 27 | 6 | 12 | 0 | 27 |
+| 360d | 2025-11-20 | 2 | 33 | 6 | 13 | 1 | 33 |
+| last720d | 2024-11-25 | 5 | 45 | 6 | 24 | 6 | 46 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:48:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:45:58Z._
