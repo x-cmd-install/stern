@@ -1,3 +1,24 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: stern
+  visiblename: stern
+  version: 1.23.0
+  origversion: 1.23.0-2~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: nix_stable_24_05
+  srcname: stern
+  visiblename: stern
+  version: 1.29.0
+  origversion: null
+  status: outdated
+  summary: Multi pod and container log tailing for Kubernetes
+  maintainers:
+    - maxbode@gmail.com
+    - florian@florianstroeger.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: stern
@@ -130,18 +151,6 @@
   summary: Multi pod and container log tailing for Kubernetes
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: stern
-  visiblename: stern
-  version: 1.29.0
-  origversion: null
-  status: outdated
-  summary: Multi pod and container log tailing for Kubernetes
-  maintainers:
-    - maxbode@gmail.com
-    - florian@florianstroeger.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_24_11
   srcname: stern
   visiblename: stern
@@ -245,7 +254,7 @@
   binname: stern
   visiblename: net/stern
   version: 1.30.0
-  origversion: 1.30.0nb21
+  origversion: 1.30.0nb22
   status: outdated
   summary: Multi pod and container log tailing for Kubernetes
   maintainers:
@@ -423,15 +432,6 @@
   visiblename: stern
   version: 1.24.0
   origversion: 1.24.0-2~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: stern
-  visiblename: stern
-  version: 1.23.0
-  origversion: 1.23.0-2~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
