@@ -14,11 +14,11 @@ x install stern
 
 ## Code insight
 
-Total: **6,711** lines of code across **47** files in the top 5 languages.
+Total: **7,001** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,606 | 408 | 712 | 32 |
+| Go | 6,896 | 438 | 735 | 32 |
 | Makefile | 60 | 0 | 20 | 1 |
 | Yaml | 27 | 0 | 0 | 12 |
 | Sh | 13 | 1 | 4 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.35.0` (2026-10-22)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,924 · **Forks**: 181 · **Open issues**: 167 · **Contributors**: 66
+- **Stars**: 4,925 · **Forks**: 181 · **Open issues**: 169 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 210 · **Open PRs**: 4 · **Closed issues**: 141 · **Open issues**: 26 · **Commits**: 343
+- **Releases**: 28 · **Merged PRs**: 211 · **Open PRs**: 2 · **Closed issues**: 142 · **Open issues**: 27 · **Commits**: 344
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 17 | 2 | 8 | 0 | 12 |
-| last60d | 2026-09-17 | 1 | 20 | 3 | 10 | 0 | 23 |
-| 90d | 2026-08-18 | 1 | 22 | 3 | 10 | 0 | 25 |
-| last180d | 2026-05-20 | 1 | 29 | 4 | 12 | 0 | 29 |
-| 360d | 2025-11-21 | 2 | 35 | 4 | 13 | 1 | 35 |
-| last720d | 2024-11-26 | 5 | 47 | 4 | 23 | 6 | 48 |
+| 30d | 2026-10-18 | 1 | 18 | 1 | 8 | 2 | 13 |
+| last60d | 2026-09-18 | 1 | 21 | 1 | 10 | 2 | 24 |
+| 90d | 2026-08-19 | 1 | 22 | 1 | 10 | 2 | 26 |
+| last180d | 2026-05-21 | 1 | 30 | 2 | 12 | 2 | 30 |
+| 360d | 2025-11-22 | 2 | 36 | 2 | 14 | 2 | 36 |
+| last720d | 2024-11-27 | 5 | 48 | 2 | 24 | 7 | 49 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:50:14Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:15:30Z._
