@@ -26,13 +26,13 @@ x install stern
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **5.9 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install stern
 
 ## 流行度
 
-- **Star**: 4,925 · **Fork**: 181 · **开放 issue**: 169 · **贡献者**: 67
+- **Star**: 4,925 · **Fork**: 183 · **开放 issue**: 170 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 211 · **开放 PR**: 2 · **已关闭 issue**: 142 · **开放 issue**: 27 · **提交数**: 344
+- **发布数**: 28 · **已合并 PR**: 211 · **开放 PR**: 6 · **已关闭 issue**: 142 · **开放 issue**: 28 · **提交数**: 344
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 18 | 1 | 8 | 2 | 13 |
-| last60d | 2026-09-18 | 1 | 21 | 1 | 10 | 2 | 24 |
-| 90d | 2026-08-19 | 1 | 22 | 1 | 10 | 2 | 26 |
-| last180d | 2026-05-21 | 1 | 30 | 2 | 12 | 2 | 30 |
-| 360d | 2025-11-22 | 2 | 36 | 2 | 14 | 2 | 36 |
-| last720d | 2024-11-27 | 5 | 48 | 2 | 24 | 7 | 49 |
+| 30d | 2026-10-20 | 1 | 16 | 5 | 7 | 3 | 13 |
+| last60d | 2026-09-20 | 1 | 21 | 5 | 10 | 3 | 24 |
+| 90d | 2026-08-21 | 1 | 22 | 5 | 10 | 3 | 26 |
+| last180d | 2026-05-23 | 1 | 30 | 6 | 12 | 3 | 30 |
+| 360d | 2025-11-24 | 2 | 36 | 6 | 14 | 3 | 36 |
+| last720d | 2024-11-29 | 5 | 48 | 6 | 24 | 8 | 49 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ stern 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:15:31Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:33:04Z._
