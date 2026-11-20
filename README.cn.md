@@ -57,12 +57,12 @@ x install stern
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 16 | 5 | 7 | 3 | 13 |
-| last60d | 2026-09-20 | 1 | 21 | 5 | 10 | 3 | 24 |
-| 90d | 2026-08-21 | 1 | 22 | 5 | 10 | 3 | 26 |
-| last180d | 2026-05-23 | 1 | 30 | 6 | 12 | 3 | 30 |
-| 360d | 2025-11-24 | 2 | 36 | 6 | 14 | 3 | 36 |
-| last720d | 2024-11-29 | 5 | 48 | 6 | 24 | 8 | 49 |
+| 30d | 2026-10-21 | 1 | 15 | 5 | 7 | 3 | 13 |
+| last60d | 2026-09-21 | 1 | 21 | 5 | 10 | 3 | 24 |
+| 90d | 2026-08-22 | 1 | 22 | 5 | 10 | 3 | 26 |
+| last180d | 2026-05-24 | 1 | 30 | 6 | 12 | 3 | 30 |
+| 360d | 2025-11-25 | 2 | 36 | 6 | 14 | 3 | 36 |
+| last720d | 2024-11-30 | 5 | 48 | 6 | 24 | 8 | 49 |
 
 ## Release 资产
 
@@ -81,13 +81,13 @@ x install stern
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/stern) 上共有 **41** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/stern) 上共有 **41** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.35.0` | ✅ latest |
 | Homebrew | `1.35.0` | ✅ latest |
-| Nix unstable | `1.34.0` | ⚠️ outdated |
+| Nix unstable | `1.35.0` | ✅ latest |
 | Void | `1.35.0` | ✅ latest |
 | Alpine edge | `1.33.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.35.0` | ✅ latest |
@@ -101,4 +101,4 @@ stern 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T07:33:04Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T09:20:43Z._

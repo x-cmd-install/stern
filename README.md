@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 16 | 5 | 7 | 3 | 13 |
-| last60d | 2026-09-20 | 1 | 21 | 5 | 10 | 3 | 24 |
-| 90d | 2026-08-21 | 1 | 22 | 5 | 10 | 3 | 26 |
-| last180d | 2026-05-23 | 1 | 30 | 6 | 12 | 3 | 30 |
-| 360d | 2025-11-24 | 2 | 36 | 6 | 14 | 3 | 36 |
-| last720d | 2024-11-29 | 5 | 48 | 6 | 24 | 8 | 49 |
+| 30d | 2026-10-21 | 1 | 15 | 5 | 7 | 3 | 13 |
+| last60d | 2026-09-21 | 1 | 21 | 5 | 10 | 3 | 24 |
+| 90d | 2026-08-22 | 1 | 22 | 5 | 10 | 3 | 26 |
+| last180d | 2026-05-24 | 1 | 30 | 6 | 12 | 3 | 30 |
+| 360d | 2025-11-25 | 2 | 36 | 6 | 14 | 3 | 36 |
+| last720d | 2024-11-30 | 5 | 48 | 6 | 24 | 8 | 49 |
 
 ## Release assets
 
@@ -81,13 +81,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/stern). **12** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/stern). **13** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.35.0` | ✅ latest |
 | Homebrew | `1.35.0` | ✅ latest |
-| Nix unstable | `1.34.0` | ⚠️ outdated |
+| Nix unstable | `1.35.0` | ✅ latest |
 | Void | `1.35.0` | ✅ latest |
 | Alpine edge | `1.33.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.35.0` | ✅ latest |
@@ -101,4 +101,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:33:04Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:20:42Z._
