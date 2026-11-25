@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 9 | 6 | 2 | 3 | 11 |
-| last60d | 2026-09-25 | 1 | 21 | 6 | 10 | 3 | 24 |
-| 90d | 2026-08-26 | 1 | 22 | 6 | 10 | 3 | 26 |
-| last180d | 2026-05-28 | 1 | 30 | 7 | 12 | 3 | 30 |
-| 360d | 2025-11-29 | 2 | 36 | 7 | 13 | 3 | 36 |
-| last720d | 2024-12-04 | 5 | 48 | 7 | 24 | 8 | 49 |
+| 30d | 2026-10-26 | 0 | 9 | 6 | 2 | 3 | 11 |
+| last60d | 2026-09-26 | 1 | 21 | 6 | 10 | 3 | 24 |
+| 90d | 2026-08-27 | 1 | 22 | 6 | 10 | 3 | 26 |
+| last180d | 2026-05-29 | 1 | 30 | 7 | 12 | 3 | 30 |
+| 360d | 2025-11-30 | 2 | 36 | 7 | 13 | 3 | 36 |
+| last720d | 2024-12-05 | 5 | 48 | 7 | 24 | 8 | 49 |
 
 ## Release assets
 
@@ -79,19 +79,6 @@ Lowest-scoring checks:
 | [stern_1.35.0_windows_arm64.tar.gz](https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_windows_arm64.tar.gz) | 12.6 MiB | `native/win/arm64` |
 | [stern_1.35.0_windows_arm64.zip](https://github.com/stern/stern/releases/download/v1.35.0/stern_1.35.0_windows_arm64.zip) | 12.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **41** distros on [repology.org](https://repology.org/project/stern). **14** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.35.0` | ✅ latest |
-| Homebrew | `1.35.0` | ✅ latest |
-| Nix unstable | `1.35.0` | ✅ latest |
-| Void | `1.35.0` | ✅ latest |
-| Alpine edge | `1.33.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.35.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `stern` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +88,4 @@ Install metadata for stern lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:18:36Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:49:19Z._
